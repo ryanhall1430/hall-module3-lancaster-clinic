@@ -1,8 +1,8 @@
-# Numbered Access how-to (Hall.Module3.LancasterClinic)
+# Numbered Access how-to (Barbian.Module3.LancasterClinic)
 
 Do this in Microsoft Access (Office 365 OK). House does **not** open Access for you.
 
-1. File → New → Blank database → name `Hall.Module3.LancasterClinic`.
+1. File → New → Blank database → name `Barbian.Module3.LancasterClinic`.
 2. Create **Clients** in Design view per SCHEMA.md (ClientNumber = PK Short Text, not AutoNumber). Save.
 3. Datasheet: enter the **six** clients from DATA.md (not Fierro yet). Adjust column widths. Save, Print Preview, close.
 4. Create **Diagnoses** (DiagnosisID PK, Diagnosis). Enter AD/MDD/OCD/SC rows. Adjust widths. Save, preview, close.
